@@ -125,7 +125,8 @@ Key features used include:
 │
 ├── results/
 │   ├── train_result.png               # Training classification report
-│   └── test_result.png                # Testing classification report
+│   ├── test_result.png                # Testing classification report
+│   └── diabetes_prediction_demo.gif   # Gif of diabetes prediction website demonstration  
 │
 ├── pred-model.ipynb                   # Data preprocessing, EDA, and model development
 ├── requirements.txt                   # Python dependencies
