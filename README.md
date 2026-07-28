@@ -27,7 +27,12 @@ The model then provides:
 - Estimated diabetes probability
 - Risk category interpretation
 
-![Diabetes Prediction App](results/diabetes_pred_demo.gif)
+
+
+<p align="center">
+  <img src="results/diabetes_prediction_demo.gif" alt="Diabetes Prediction App Demo" width="700">
+</p>
+
 
 ---
 
